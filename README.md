@@ -18,3 +18,7 @@ Encontrou a senha?
 Deixe um comentário abaixo e me conte o que achou do projeto!
 
 P.S. Não se preocupe, não há nada malicioso escondido por aqui. Apenas algumas brincadeiras para te entreter.
+
+
+
+- Implementações futuras: organizar melhor e comentar o codigo, e também deixar a pagina responsiva. 
