@@ -1,7 +1,7 @@
 # projeto-imersao-alura---CLI
 Projeto desenvolvido durante a imersão Alura (Setembro 2024)
 
-Este projeto simula um terminal web que permite você interagir com comandos para descobrir um pouco mais sobre mim (MaxTheVogel).
+Este projeto simula um terminal web que permite você interagir com comandos.
 
 Tecnologias utilizadas:
 - HTML
